@@ -1,0 +1,14 @@
+body{
+    background: #1166ff;
+}
+p{
+    color:#ffffff;
+}
+p.vermelho{
+    color: #f80e0e;
+    text-align:center;
+    font-family: 'Verdana';
+}
+h1,h2,h3{
+    color:#13db45;
+}
