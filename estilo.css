@@ -3,6 +3,7 @@ body{
 }
 p{
     color:#ffffff;
+    text-align:right;
 }
 p.vermelho{
     color: #f80e0e;
